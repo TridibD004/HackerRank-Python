@@ -21,7 +21,8 @@ I am going to upload all solutions for 2 ⭐ in Python
 |Q.N.| Name | Type     |
 | :-------- | :------- | :------------------------- |
 |1.| Say "Hello, World!" With Python | `Introduction` | 
-
+|2.| Python If-Else | `Introduction` | 
+|3.| Arithmetic Operators | `Introduction` | 
 
 
 ## 🛠 Skills
