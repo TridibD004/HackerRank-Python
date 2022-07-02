@@ -18,11 +18,15 @@ I am going to upload all solutions for 2 ⭐ in Python
   [https://www.hackerrank.com/dashboard]
 ```
 
-|Q.N.| Name | Type     |
-| :-------- | :------- | :------------------------- |
-|1.| Say "Hello, World!" With Python | `Introduction` | 
-|2.| Python If-Else | `Introduction` | 
-|3.| Arithmetic Operators | `Introduction` | 
+|Q.N.| Name |
+| :-------- | :------- | 
+|1.| Say "Hello, World!" With Python | 
+|2.| Python If-Else |  
+|3.| Arithmetic Operators |
+|4.|Python: Division|
+|5.|Loops|
+|6.|Write a function|
+|7.|Print Function|
 
 
 ## 🛠 Skills
